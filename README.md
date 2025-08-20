@@ -51,7 +51,7 @@ This is the professor-side application of the HDRNI system. It works in sync wit
 ➡️ Track class and student performance
 ```
 
-![Demo](assets/Hdrny.png)
+![Demo](test/Hdrny.png)
 
 ## Benchmarks
 Compared against market tools, **HDRNI** introduces academic-specific customizations tailored to our faculty and student needs.
